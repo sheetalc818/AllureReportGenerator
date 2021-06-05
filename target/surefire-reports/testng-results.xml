@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[====Browser Session Ends====]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-06-05T15:19:15 IST" name="All Test Suite" finished-at="2021-06-05T15:19:29 IST" duration-ms="14081">
+    <groups>
+    </groups>
+    <test started-at="2021-06-05T15:19:15 IST" name="C:/Users/dell/Documents/QADevPrograms/AllureReport" finished-at="2021-06-05T15:19:29 IST" duration-ms="14081">
+      <class name="GenerateAllureReport">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:GenerateAllureReport@7a344b65]" started-at="2021-06-05T15:19:15 IST" name="setUp" description="Setup ChromeDriver" finished-at="2021-06-05T15:19:24 IST" duration-ms="8365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:GenerateAllureReport@7a344b65]" started-at="2021-06-05T15:19:24 IST" name="loginTest" description="Login to application with valid credentials" finished-at="2021-06-05T15:19:29 IST" duration-ms="4771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:GenerateAllureReport@7a344b65]" started-at="2021-06-05T15:19:29 IST" name="quit" description="Closing and apllication" finished-at="2021-06-05T15:19:29 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====Browser Session Ends====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- GenerateAllureReport -->
+    </test> <!-- C:/Users/dell/Documents/QADevPrograms/AllureReport -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
